@@ -1,4 +1,5 @@
-The project emphasizes user collaboration through commenting and discussion within the created study rooms, promoting an interactive and dynamic learning environment. Eployed at:
+The project emphasizes user collaboration through commenting and discussion within the created study rooms, promoting an interactive and dynamic learning environment. 
+Deployed at:
 https://study2gether-webapp-production.up.railway.app/
 
 ![image](https://github.com/Nidhi-Ranawat/study2gether/assets/84018561/6e1ad4e2-03f3-40fd-9385-55dd0310fff9)
